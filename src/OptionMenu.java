@@ -17,8 +17,8 @@ public class OptionMenu extends Account
 		{
 			try
 			{
-				data.put(121, 121);
-				data.put(989, 719);
+				data.put(983567, 851467);
+				data.put(989857, 719786);
 				
 				System.out.println("Welcome to the ATM projct!");
 				System.out.println("Enter your customer Number");
